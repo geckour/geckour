@@ -7,6 +7,9 @@
 # Mission
 Eliminate someone's inability to do so
 
+# 16 personality types
+INTP
+
 # Favolite
 - Sleep
 - Manufacturing/Expression
