@@ -1,14 +1,13 @@
-# Me
-## Name
+# Name
 - geckour
   - I don't care whatever you pronounce it (I also don't know)
 - ｾﾛﾘﾝ
 - celoren
 
-## Mission
+# Mission
 Eliminate someone's inability to do so
 
-## Favolite
+# Favolite
 - Sleep
 - Manufacturing/Expression
 - JetBrains IDE
@@ -19,14 +18,14 @@ Eliminate someone's inability to do so
 - Sparrow
 - Hedgehog
 
-## Bad at
+# Bad at
 - Wake early
 - CLI
 - Math
 - Polite communication
 - Noisy environment
 
-## Current job
+# Current job
 - Android app developer
 
 <!--
